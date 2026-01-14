@@ -358,4 +358,6 @@ a.view-demo:hover{
     display: block;
   }
 }
-
+.nav-links.show {
+  display: flex;
+}
