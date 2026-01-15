@@ -478,7 +478,7 @@ a.view-demo:hover{
   stroke-width: 3;
   stroke-dasharray: 600;
   stroke-dashoffset: 600;
-  animation: draw 2.2s ease-out forwards;
+  animation: draw 3.3s ease-out forwards;
 }
 
 /* fast brush animation */

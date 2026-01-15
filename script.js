@@ -6,6 +6,6 @@
 window.addEventListener("load", () => {
   setTimeout(() => {
     document.getElementById("intro").style.display = "none";
-  }, 2400);
+  }, 3600);
 });
 
